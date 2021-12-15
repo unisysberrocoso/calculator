@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/XLab-5JL-800/Calculator/_apis/build/status/unisysberrocoso.calculator?branchName=master)](https://dev.azure.com/XLab-5JL-800/Calculator/_build/latest?definitionId=1&branchName=master)
